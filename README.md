@@ -8,6 +8,11 @@ FlappyBird Cover é um jogo ispirado no FlappyBird com o grande diferencial de s
 * Salva a maior pontuação;
 * Velocidade e distancias dos tuneis confivuraveis.
 
+## Gênero
+* Casual;
+* Multiplayer;
+* 2D.
+
 ## Linguagem
 Java
 
