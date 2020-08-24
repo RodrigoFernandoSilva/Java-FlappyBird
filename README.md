@@ -1,6 +1,6 @@
 # FlappyBird Cover
 ## Descrição
-FlappyBird Cover é um jogo ispirado no FlappyBird onde o grande diferencial é a possibilidade de se jogar com mais de uma pessoa ao mesmo tempo.
+FlappyBird Cover é um jogo ispirado no FlappyBird com o grande diferencial de ser possivel jogar com mais de uma pessoa ao mesmo tempo.
   
 ## Funcionalidades
 * Dois modos de jogo: Elimination mode, Punctuation mode;
