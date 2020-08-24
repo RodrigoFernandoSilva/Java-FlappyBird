@@ -18,3 +18,6 @@ Jplay
 Thread
 
 ## Imagens
+[capturar-ernrtf3e](https://github.com/RodrigoFernandoSilva/Java-FlappyBird/blob/master/Prints/capturar-ernrtf3e.jpg)
+[capturar1-e45jms4g](https://github.com/RodrigoFernandoSilva/Java-FlappyBird/blob/master/Prints/capturar1-e45jms4g.jpg)
+[media-xk5wjs3x](https://github.com/RodrigoFernandoSilva/Java-FlappyBird/blob/master/Prints/media-xk5wjs3x.jpg)
