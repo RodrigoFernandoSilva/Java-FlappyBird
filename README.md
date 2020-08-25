@@ -23,7 +23,7 @@ Jplay
 Thread
 
 ## Desenvolvido com
-(Eclipse)[https://www.eclipse.org/]
+* [Eclipse](https://www.eclipse.org/)
 
 ## Download
 [Jogo](https://gamejolt.com/games/FlappyBird/438721)
