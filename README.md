@@ -22,6 +22,9 @@ Jplay
 ## Técnicas de programação
 Thread
 
+## Download
+[Jogo](https://gamejolt.com/games/FlappyBird/438721)
+
 ## Imagens
 ![capturar-ernrtf3e](https://github.com/RodrigoFernandoSilva/Java-FlappyBird/blob/master/Prints/capturar-ernrtf3e.jpg)
 ![capturar1-e45jms4g](https://github.com/RodrigoFernandoSilva/Java-FlappyBird/blob/master/Prints/capturar1-e45jms4g.jpg)
